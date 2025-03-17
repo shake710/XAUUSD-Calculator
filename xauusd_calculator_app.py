@@ -75,4 +75,4 @@ with col2:
 st.subheader("⚠️ Disclaimer")
 st.write("The results from this calculator are for informational purposes only and may differ from actual outcomes due to market conditions. Please use caution and consider professional advice before making trading decisions.")
 
-# Let me know if you want any adjustments or more features! 🚀
+
